@@ -1,0 +1,17 @@
+C:\Users\hp\Desktop\Programming\C#\Lessons\Windows Forms\Projects\UndefindedProject\obj\Debug\Blacken Bank.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Programming\C#\Lessons\Windows Forms\Projects\UndefindedProject\obj\Debug\Blacken Bank.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Programming\C#\Lessons\Windows Forms\Projects\UndefindedProject\obj\Debug\Blacken Bank.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Programming\C#\Lessons\Windows Forms\Projects\UndefindedProject\obj\Debug\BlackenBank.Properties.Resources.resources
+C:\Users\hp\Desktop\Programming\C#\Lessons\Windows Forms\Projects\UndefindedProject\bin\Debug\Blacken Bank.exe.config
+C:\Users\hp\Desktop\Programming\C#\Lessons\Windows Forms\Projects\UndefindedProject\bin\Debug\Blacken Bank.exe
+C:\Users\hp\Desktop\Programming\C#\Lessons\Windows Forms\Projects\UndefindedProject\bin\Debug\Blacken Bank.pdb
+C:\Users\hp\Desktop\Programming\C#\Lessons\Windows Forms\Projects\UndefindedProject\obj\Debug\BlackenBank.Add_new_Client.resources
+C:\Users\hp\Desktop\Programming\C#\Lessons\Windows Forms\Projects\UndefindedProject\obj\Debug\BlackenBank.MainMenu.resources
+C:\Users\hp\Desktop\Programming\C#\Lessons\Windows Forms\Projects\UndefindedProject\obj\Debug\BlackenBank.LoginScreen.resources
+C:\Users\hp\Desktop\Programming\C#\Lessons\Windows Forms\Projects\UndefindedProject\obj\Debug\BlackenBank.MainScreen.resources
+C:\Users\hp\Desktop\Programming\C#\Lessons\Windows Forms\Projects\UndefindedProject\obj\Debug\BlackenBank.Test1.resources
+C:\Users\hp\Desktop\Programming\C#\Lessons\Windows Forms\Projects\UndefindedProject\obj\Debug\BlackenBank.UsersListScreen.resources
+C:\Users\hp\Desktop\Programming\C#\Lessons\Windows Forms\Projects\UndefindedProject\obj\Debug\Blacken Bank.exe
+C:\Users\hp\Desktop\Programming\C#\Lessons\Windows Forms\Projects\UndefindedProject\obj\Debug\Blacken Bank.pdb
+C:\Users\hp\Desktop\Programming\C#\Lessons\Windows Forms\Projects\UndefindedProject\obj\Debug\BlackenBank.Update_Client.resources
+C:\Users\hp\Desktop\Programming\C#\Lessons\Windows Forms\Projects\UndefindedProject\obj\Debug\BlackenBank.Transactions.resources

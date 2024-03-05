@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Programming\C#\Lessons\Windows Forms\Projects\UndefindedProject\bin\Debug\UndefindedProject.exe.config
+C:\Users\hp\Desktop\Programming\C#\Lessons\Windows Forms\Projects\UndefindedProject\bin\Debug\UndefindedProject.exe
+C:\Users\hp\Desktop\Programming\C#\Lessons\Windows Forms\Projects\UndefindedProject\bin\Debug\UndefindedProject.pdb
+C:\Users\hp\Desktop\Programming\C#\Lessons\Windows Forms\Projects\UndefindedProject\obj\Debug\UndefindedProject.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Programming\C#\Lessons\Windows Forms\Projects\UndefindedProject\obj\Debug\UndefindedProject.Properties.Resources.resources
+C:\Users\hp\Desktop\Programming\C#\Lessons\Windows Forms\Projects\UndefindedProject\obj\Debug\UndefindedProject.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Programming\C#\Lessons\Windows Forms\Projects\UndefindedProject\obj\Debug\UndefindedProject.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Programming\C#\Lessons\Windows Forms\Projects\UndefindedProject\obj\Debug\UndefindedProject.exe
+C:\Users\hp\Desktop\Programming\C#\Lessons\Windows Forms\Projects\UndefindedProject\obj\Debug\UndefindedProject.pdb
+C:\Users\hp\Desktop\Programming\C#\Lessons\Windows Forms\Projects\UndefindedProject\obj\Debug\UndefindedProject.LoginScreen.resources
+C:\Users\hp\Desktop\Programming\C#\Lessons\Windows Forms\Projects\UndefindedProject\obj\Debug\UndefindedProject.MainScreen.resources
+C:\Users\hp\Desktop\Programming\C#\Lessons\Windows Forms\Projects\UndefindedProject\obj\Debug\UndefindedProject.UsersListScreen.resources
+C:\Users\hp\Desktop\Programming\C#\Lessons\Windows Forms\Projects\UndefindedProject\obj\Debug\UndefindedProject.Test1.resources
+C:\Users\hp\Desktop\Programming\C#\Lessons\Windows Forms\Projects\UndefindedProject\obj\Debug\UndefindedProject.MainMenu.resources
+C:\Users\hp\Desktop\Programming\C#\Lessons\Windows Forms\Projects\UndefindedProject\obj\Debug\UndefindedProject.Add_new_Client.resources
